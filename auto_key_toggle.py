@@ -11,7 +11,7 @@ from numpy import fft
 pyautogui.FAILSAFE = False
 
 # Configurações fixas - Tecla 1 (F)
-tecla = "f"
+tecla = "r"
 atalho = "f8"
 intervalo = 0.5
 
