@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='auto_key_toggle',
+    name='executavel',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
