@@ -1,0 +1,31 @@
+# Dependências e Builds (Node / React / Frontend)
+node_modules/
+dist/
+build/
+.next/
+.cache/
+
+# Ambientes Virtuais e Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# IDEs e Editores (VS Code, PyCharm, Visual Studio)
+.vscode/
+.idea/
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
